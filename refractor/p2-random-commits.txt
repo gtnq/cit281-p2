@@ -1,0 +1,6 @@
+f24e38d4ad1a294d9de928e53878f0207ceb38b9 added the getSortedString and let console do both sorted and random string to make sure the output is correct
+3bc742e4e83e3b70b35f08eb5d68392e1109f74d compeleted getRandomString()
+c40e4a157a9681649610e26b1b7052d67531d72d compoleted getRandomLetter()
+47ec14ecea07052206ae63b392c46541ffe4eb02 forget about the name and project number
+dbdb213d51761759c3d0e7a4d5a6cb0951e88a20 solution in
+ae51f20725e971daa2be588e8cd9529dd0659285 file added
